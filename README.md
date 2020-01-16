@@ -10,4 +10,6 @@ Key components:
 * Troyka-[White] Led (AMP-B005-[W])
 * Troyka-Led Button [Red] (AMP-B077-[R])
 
+Requires [QuadDisplay2](https://github.com/amperka/QuadDisplay2) library.
+
 Note: the code is based on delay(), thus the timer is not very precise.
