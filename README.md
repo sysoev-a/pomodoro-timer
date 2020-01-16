@@ -1,5 +1,5 @@
 # pomodoro-timer
-Code for Arduino-based pomodoro timer.
+Code for Arduino-based [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique).
 
 The sketch is to be compiled and uploaded with [Arduino IDE](https://www.arduino.cc/en/Main/Software#download).
 
